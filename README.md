@@ -12,6 +12,12 @@
 
 </div>
 
+## 🔗 Quick Links
+
+- 🚀 **Live Deployed Link:** [https://your-deployment-link.vercel.app](https://paypilot-killswitch.vercel.app/)
+- 🎥 **Demo Video:** https://drive.google.com/drive/folders/1hA-0RnG7-VepQRYmuCXBctR3cBdzkVrP?usp=sharing
+- 📂 **GitHub Repository:** https://github.com/MeetRaval8983/PayPilot
+
 ---
 
 ## The problem
